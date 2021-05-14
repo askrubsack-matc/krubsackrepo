@@ -1,0 +1,11 @@
+commit e68cd6972d9037f20e58a7bd998619fb8f4e88e8
+Author: kali <kali@kali-python.seclan.local>
+Date:   Mon Feb 1 18:28:22 2021 -0600
+
+    Added a new file
+
+commit b487d1f769ed2db2cb805240211641849e7310ea
+Author: kali <kali@kali-python.seclan.local>
+Date:   Mon Feb 1 18:14:07 2021 -0600
+
+    Initial commit of GitHub exercise
